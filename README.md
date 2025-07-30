@@ -31,36 +31,38 @@ A simulation of maze traversal using single and multiple agents in NetLogo, demo
 
 ## 🗂️ File Structure
 
-```bash
+
 NetLogo-Maze-Exploration/
 ├── MyMaze.nlogo             # Main NetLogo simulation file
 ├── README.md                # Project documentation
 
-🛠️ How to Run
-Install NetLogo
+## 🛠️ How to Run
 
-Open maze-exploration.nlogo in the NetLogo interface
+1. Install [NetLogo](https://ccl.northwestern.edu/netlogo/)
+2. Open `MyMaze.nlogo` in the NetLogo interface
+3. Click **`Setup`** to generate the maze
+4. Choose an agent mode from the dropdown:
+   - `single-deterministic`
+   - `single-random`
+   - `multiple`
+5. Click **`Go`** to run the simulation
 
-Click Setup to generate the maze
+---
 
-Choose an agent mode from the dropdown:
+## 📸 Screenshots
 
-single-deterministic
+_Add screenshots here showing the maze and agent(s) in motion._
 
-single-random
+---
 
-multiple
+## 📚 References
 
-Click Go to run the simulation
+- [Jamis Buck's Maze Algorithms](https://weblog.jamisbuck.org/)
+- [NetLogo Documentation](https://ccl.northwestern.edu/netlogo/docs/)
 
-📸 Screenshots
-Add screenshots here showing the maze and agent(s) in motion.
+---
 
-📚 References
-Jamis Buck's Maze Algorithms
+## 📖 License
 
-NetLogo Documentation
-
-📖 License
-This project is open source and available under the MIT License.
-
+This project is open source and available under the [MIT License](LICENSE).
+```bash
