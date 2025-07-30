@@ -33,7 +33,9 @@ A simulation of maze traversal using single and multiple agents in NetLogo, demo
 
 
 NetLogo-Maze-Exploration/
+
 ├── MyMaze.nlogo             # Main NetLogo simulation file
+
 ├── README.md                # Project documentation
 
 ## 🛠️ How to Run
