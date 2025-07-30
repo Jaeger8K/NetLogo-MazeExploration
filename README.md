@@ -51,7 +51,7 @@ NetLogo-Maze-Exploration/
 
 ## 📸 Screenshots
 
-_Add screenshots here showing the maze and agent(s) in motion._
+<img width="1299" height="1008" alt="Screenshot 2025-07-30 121003" src="https://github.com/user-attachments/assets/eba36e6d-2f9c-4cd5-b2d2-bfa6ba1db7e6" />
 
 ---
 
