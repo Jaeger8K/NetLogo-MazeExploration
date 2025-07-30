@@ -1,6 +1,4 @@
-# NetLogo-Maze-Exploration
-
-# 🧭 NetLogo Maze Exploration
+# NetLogo-MazeExploration
 
 A simulation of maze traversal using single and multiple agents in NetLogo, demonstrating agent-based behavior in a generated maze. The system supports various exploration modes including deterministic and random pathfinding, as well as branching multi-agent logic.
 
@@ -32,7 +30,7 @@ A simulation of maze traversal using single and multiple agents in NetLogo, demo
 ## 🗂️ File Structure
 
 
-NetLogo-Maze-Exploration/
+NetLogo-MazeExploration/
 
 ├── MyMaze.nlogo             # Main NetLogo simulation file
 
